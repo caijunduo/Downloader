@@ -1,0 +1,12 @@
+{
+  "name": "Downloader",
+  "outputfilename": "Downloader",
+  "frontend:install": "yarn install",
+  "frontend:build": "yarn run build",
+  "frontend:dev:watcher": "yarn run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "caijunduo",
+    "email": "caijunduo@gmail.com"
+  }
+}
